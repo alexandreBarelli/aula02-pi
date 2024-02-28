@@ -1,0 +1,44 @@
+Aula Programação para internet
+
+27Fev2024
+
+Relembrando o GIT
+git init
+git add .
+git commit -m "mensagem"
+git pull
+git push
+
+
+
+Tabelas em HTML
+
+<table> -> início e fim da tabela
+<thead> -> cabeçalho da tabela
+<tbody> -> corpo da tabela
+<th> -> linha de cabeçalho
+<tr> -> linha da tabela
+<td> -> coluna (ou dados) da tabela
+
+Propriedades
+border -> largura da borda
+colspan -> mescla colunas
+rowspan -> mescla linhas
+
+
++-------------------------------+
+|     Controle de Estoque       |
++-------------------------------+
+|Código| Produto      | Preço   |
++-------------------------------+
+|0148  | Feijão Preto | 8.90    |
+|0190  | Arroz        | 26.90   |
+|4128  | Sabão Ypê    | 7.75    |
+|7196  | Veja Multiuso| 12.57   |
++------+--------------+---------+
+
+<table border = "1" >
+  +- Tag   |
+           +- atributo
+		   
+		   
